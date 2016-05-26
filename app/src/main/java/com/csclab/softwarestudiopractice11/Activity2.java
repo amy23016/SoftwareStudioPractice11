@@ -58,6 +58,12 @@ public class Activity2 extends Activity{
          * Hint: The event you may encounter: ACTION_DOWN & ACTION_MOVE **/
 
 
+
+
+
+
+
+
         @Override
         public boolean onTouch(View v, MotionEvent event) {
             switch(event.getAction()){
