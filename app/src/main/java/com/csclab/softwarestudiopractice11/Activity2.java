@@ -60,10 +60,6 @@ public class Activity2 extends Activity{
 
 
 
-
-
-
-
         @Override
         public boolean onTouch(View v, MotionEvent event) {
             switch(event.getAction()){
